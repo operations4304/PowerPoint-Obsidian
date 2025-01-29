@@ -1,5 +1,9 @@
 # PowerPoint-Obsidian
 
+知乎文字链接：[用Quicker设置Obsidian到PowerPoint的跳转、回链动作](https://zhuanlan.zhihu.com/p/690709031)
+
+哔哩哔哩视频链接：无
+
 用Quicker可以帮助我们完成一些繁琐的、需要多个操作步骤的动作。
 
 这篇文章中，我用Quicker将的PowerPoint导出的图片复制到到Obsidian文件夹、并制作回链且按照callout格式复制到Obsidian笔记中，使之点击Obsidian中的链接能自动打开ppt文件，并跳转到ppt的指定页数。
